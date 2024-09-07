@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "35218551960",
+    "firebase_url": "https://twist-feast-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "twist-feast",
+    "storage_bucket": "twist-feast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35218551960:android:d11cba5dd454fb746ecced",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgakSOvwCUcTblM0NKQFi9rXLm7roAXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
